@@ -1,0 +1,21 @@
+.chartPaper
+{
+    background-color: white;
+    height: 350px;
+    margin: 20px;
+    margin-left: -20px;
+    margin-right: 23px;
+}
+
+.chartTitle
+{
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
+.chartContainer
+{
+    position: relative;
+    left: 100px;
+    margin-top: 20px;
+}

@@ -1,0 +1,65 @@
+.mainPage
+{
+    flex: 4;
+    margin-right: 30px;
+}
+
+.paperWrapper
+{
+    display: flex;
+}
+
+.paper{
+    flex: 2.5;
+    margin-right: 30px;
+    margin-top: 20px;
+    height: 200px;
+    cursor: pointer;
+}
+
+.paperDetail
+{
+    position: relative;
+    left: 30px;
+    align-items: center;
+    top: 30px;
+}
+
+.paperTitle
+{
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.paperCost
+{
+    margin-top: 15px;
+    align-items: center;
+    display: flex;
+}
+
+.paperCost1
+{
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.paperCost2
+{
+    margin-left: 40px;
+    margin-right: 10px;
+}
+
+.paperComp
+{
+    margin-top: 15px;
+    font-size: 15px;
+    color: grey;
+}
+
+.widget
+{
+    display: flex;
+    margin: 20px;
+    margin-left: -20px;
+}

@@ -1,0 +1,177 @@
+.product
+{
+    flex: 4;
+    margin : 30px;
+    margin-left: 10px;
+}
+
+.productTitleContainer
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.productCreateBtn
+{
+    padding: 5px 20px;
+    border: none;
+    background-color: teal;
+    color: white;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.productTop
+{
+    display: flex;
+}
+
+.productTopLeft
+{
+    flex: 1;
+    margin-bottom: -180px;
+}
+
+.productChart
+{
+    margin-bottom: -180px;
+}
+
+
+.productTopRight
+{
+    flex: 1;
+    margin-top: 20px;
+}
+
+.productPaper
+{
+    padding: 20px;
+    height: 170px;
+}
+
+.productInfoTop
+{
+    display: flex;
+    align-items: center;
+}
+
+.productInfoTop img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 20px ;
+}
+
+.productInfoTitle
+{
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.productInfoBottom
+{
+    margin-top: 20px;
+    width: 30%;
+}
+
+.productInfoItem
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 5px;
+}
+
+.productInfoKey
+{
+    font-weight: 600;
+}
+
+.productInfoValue
+{
+    font-weight: 400;
+}
+
+.productBottom
+{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.productBottomPaper
+{
+    padding: 20px;
+    margin-top: 50px;
+    margin-left: -10px;
+
+}
+
+.upadateImg
+{
+    height: 100px;
+    width: 100px;
+    border-radius: 5%;
+    object-fit: cover;
+    margin-right: 20px;
+}
+
+.formItem
+{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.formItem label
+{
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.formItem input
+{
+    border: none;
+    border-bottom: 1px solid gray;
+    margin-top: 10px;
+    width: 200px;
+    height: 30px;
+}
+
+.formItem select
+{
+    margin-top: 10px;
+    height: 30px;
+}
+
+.productUpdateImg
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.productUpdateTop
+{
+    display: flex;
+    align-items: center;
+}
+
+.productUpdateBtn
+{
+    margin-bottom: 10px;
+    border: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    background-color: darkblue;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    width: 150px;
+}
+

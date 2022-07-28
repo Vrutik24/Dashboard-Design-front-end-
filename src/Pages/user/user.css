@@ -1,0 +1,186 @@
+.user
+{
+    flex: 4;
+    padding: 20px;
+    margin: 20px;
+}
+
+.userEditUpdateTitle
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.userEditTitle
+{
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.userCreateBtn
+{
+    padding: 5px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color:#00b894;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.userInfoEditPaper
+{
+    display: flex;
+    
+    margin-top: 20px;
+}
+
+.userInfoPaper
+{
+    flex: 1;
+}
+
+.userProfileInfo
+{
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.userInfoImg
+{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.userNameJobInfo
+{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+
+.userName
+{
+    font-weight: 600;
+}
+
+.userJob{
+    font-weight: 300;
+}
+
+.userEditPaper
+{
+    flex: 2;
+    margin-left: 20px;
+    
+}
+
+.userAccountDetails
+{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.userAccount
+{
+    font-size: 16px;
+    color: darkgray;
+}
+
+.userUserName
+{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.userInfoIcon
+{
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+.userEditPaperMain
+{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+
+.userEditTitle
+{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.userFormProfile
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.userFormLeft
+{
+    margin-top: 20px;
+}
+
+.userForm
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.userForm label
+{
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.userForm input
+{
+    margin-top: 10px;
+    border: none;
+    border-bottom: 1px solid gray;
+    width: 240px;
+}
+
+.userFormRight
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-right: 20px;
+    margin-top:20px ;
+}
+
+.userPPChange
+{
+    display: flex;
+    align-items: center;
+}
+
+.pPicture
+{
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    object-fit: cover;
+    margin-right: 10px;
+}
+
+.userUpdateBtn
+{
+    width: 140px;
+    background-color: blue;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 16px;
+    font-weight: 600;
+}
+

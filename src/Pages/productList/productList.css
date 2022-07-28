@@ -1,0 +1,32 @@
+.productList
+{
+    flex: 4;
+    margin: 20px;
+}
+
+.productImg
+{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 10px;
+}
+
+.actionBtn
+{
+    padding: 5px 20px;
+    border: none;
+    background-color: #3bb077 ;
+    color: white;
+    border-radius: 10px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.deleteBtn
+{
+    font-size: 16px;
+    color: #ff7675;
+    cursor: pointer;
+}
